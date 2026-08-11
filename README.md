@@ -28,9 +28,7 @@
 <b>Node JS</b>
 </td>
 <td align="center" width="120">
-<img src="https://github.com/user-attachments/assets/3b5c41bf-35ac-4ee0-9693-4d2282bbeeed" height="60" />
-<br>
-<b>Express</b>
+<img src="https://github.com/user-attachments/assets/3b5c41bf-35ac-4ee0-9693-4d2282bbeeed" height="60" /><br>
 </td>
 </tr>
 </table>
