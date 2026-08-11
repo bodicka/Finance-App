@@ -25,10 +25,14 @@
 
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="60"/><br>
-<b>Node JS</b>
+<b></b>
 </td>
 <td align="center" width="120">
 <img src="https://github.com/user-attachments/assets/3b5c41bf-35ac-4ee0-9693-4d2282bbeeed" height="60" /><br>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="60"/><br>
+<b>Node JS</b>
 </td>
 </tr>
 </table>
