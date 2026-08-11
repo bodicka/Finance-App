@@ -18,8 +18,8 @@
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" height="60"/><br>
-<b>MongoDB</b>
+<img src="https://icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" height="60"/><br>
+<b>Redux-Toolkit</b>
 </td>
 </tr>
 
