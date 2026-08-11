@@ -63,25 +63,19 @@ assets/readme/
 <tr>
 <td width="33%" align="center">
 
-<img src="./assets/readme/finance-dashboard.gif" width="100%" alt="Finance App Dashboard"/>
-
-<b>Dashboard</b>
+<img src="./assets/readme-gifs/(Part-1).gif" width="100%" alt="Finance App Dashboard"/>
 
 </td>
 
 <td width="33%" align="center">
 
-<img src="./assets/readme/finance-products.gif" width="100%" alt="Finance App Products"/>
-
-<b>Products</b>
+<img src="./assets/readme-gifs/(Part-2).gif" width="100%" alt="Finance App Products"/>
 
 </td>
 
 <td width="33%" align="center">
 
-<img src="./assets/readme/finance-transactions.gif" width="100%" alt="Finance App Transactions"/>
-
-<b>Transactions</b>
+<img src="./assets/readme-gifs/(Part-3).gif" width="100%" alt="Finance App Transactions"/>
 
 </td>
 </tr>
