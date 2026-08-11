@@ -27,10 +27,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="60"/><br>
 <b>Node JS</b>
 </td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="60"/><br>
+<b>Node JS</b>
+</td>
 </tr>
 </table>
 </p>
-
 ---
 
 ## 📌 О проекте
